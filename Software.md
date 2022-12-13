@@ -45,7 +45,7 @@ Danach rattert Python die Pakete durch die installiert werden müssen.
 
 Zu guter letzt installieren wir ein Tool in dem wir den Python Code schreiben werden.  
 Das Tool ist [VSCode](https://code.visualstudio.com/) welches der meistgenutze Code Editor ist.  
-Die Installation ist typisch für euer Betriebssystem.  
+Die Installation ist typisch für euer Betriebssystem (auf Windows z.B. eine Installer-Exe).  
 
 ### Einrichtung
 
